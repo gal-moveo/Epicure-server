@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://krispil88:krispil1122@cluster0.jx7gw.mongodb.net/Epicure?retryWrites=true&w=majority",
+  "jwtSecret": "JSjdskjfekrn37256bsdf823jbirweuhf983489fi2---2349!@$@#D@#T34o"
+}
